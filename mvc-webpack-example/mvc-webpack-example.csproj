@@ -160,6 +160,7 @@
     <None Include="packages.config" />
     <Content Include="src\index.less" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="src\index.ts" />
